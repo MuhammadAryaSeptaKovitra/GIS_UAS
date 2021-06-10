@@ -1,0 +1,294 @@
+{
+  "type": "FeatureCollection",
+  "name": "Photos",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD Zainoel Abidin", "Photo": "zainal_abidin.png", "Time": "04-06-2021 14:05:52", "Alamat": "Jl. Teuku Moh. Daud Beureueh No.108, Bandar Baru, Kec. Kuta Alam, Kota Banda Aceh, Aceh 24415" },
+      "geometry": { "type": "Point", "coordinates": [95.33760905500002, 5.563862192039846, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD Meuraxa", "Photo": "Meuraxa.png", "Time": "04-06-2021 15:30:24", "Alamat": "Jl. Soekarno - Hatta No.1, Mibo, Kec. Banda Raya, Kota Banda Aceh, Aceh 23231" },
+      "geometry": { "type": "Point", "coordinates": [95.31786191256795, 5.518417832074337, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD Kayuagung", "Photo": "RSUD_Kayuagung1.jpg", "Time": "05-06-2021 09:20:33", "Alamat": "JL. Lintas Timur Lampung, Jua Jua, Kec. Kayu Agung, Kabupaten Ogan Komering Ilir" },
+      "geometry": { "type": "Point", "coordinates": [104.8256176436592, -3.4073303351197484, 41.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD Kabupaten Ogan Ilir Tanjung Senai", "Photo": "RSUD_KabOganIlirTanjungSenai.jpg", "Time": "05-06-2021 10:37:52", "Alamat": "Tj. Sejaro, Kec. Indralaya, Kabupaten Ogan Ilir" },
+      "geometry": { "type": "Point", "coordinates": [104.64705816971134, -3.256037052186661, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSU Madani", "Photo": "RSU_Madani-min.png", "Time": "05-06-2021 07:30:42", "Alamat": "Jl. Arief Rahman Hakim No.168, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227" },
+      "geometry": { "type": "Point", "coordinates": [98.70330670097836, 3.5753674257717534, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSIA Badrul Aini", "Photo": "RSIA_BadrulAini-min.png", "Time": "05-06-2021 07:35:35", "Alamat": "Jl. Bromo Jl. Syukri No.18, Tegal Sari III, Kec. Medan Area, Kota Medan, Sumatera Utara 20216" },
+      "geometry": { "type": "Point", "coordinates": [98.7058656504365, 3.5775209742696052, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSU Bakti", "Photo": "RSU_Bakti-min.png", "Time": "05-06-2021 07:55:14", "Alamat": "Jl.HM.Joni N0.64, Teladan Tim.,Kec.Medan Kota, Kota Medan,Sumatera Utara 20216" },
+      "geometry": { "type": "Point", "coordinates": [98.7017614049546, 3.568459661924402, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSU Permata Bunda", "Photo": "RSU_PermataBunda-min.png", "Time": "05-06-2021 14:15:28", "Alamat": "Jl. Sisingamangaraja No.7, Mesjid, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212" },
+      "geometry": { "type": "Point", "coordinates": [98.68575778749666, 3.5812039422624076, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSIA Stella Maris", "Photo": "RSIA_StellaMaris-min.png", "Time": "05-06-2021 08:33:16", "Alamat": "Jl. Samanhudi No.20, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20152" },
+      "geometry": { "type": "Point", "coordinates": [98.68082697760758, 3.5735487389154104, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Santa Elisabeth", "Photo": "RS_SantaElisabeth-min.png", "Time": "05-06-2021 08:50:07", "Alamat": "Jl. H. Misbah No.7, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151" },
+      "geometry": { "type": "Point", "coordinates": [98.67635752987397, 3.5752179240405084, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Rumah Sakit Methodist", "Photo": "RS_Methodist-min.png", "Time": "05-06-2021 15:05:01", "Alamat": "Jl. M.H Thamrin No.105, Sei Rengas Permata, Kec. Medan Area, Kota Medan, Sumatera Utara 20211" },
+      "geometry": { "type": "Point", "coordinates": [98.69279407142115, 3.5844287993168975, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSIA Eva", "Photo": "RSIA_EVA-min.png", "Time": "05-06-2021 15:15:25", "Alamat": "Jl. Sabarudin No.59, Sei Rengas Permata, Kec. Medan Area, Kota Medan, Sumatera Utara 20211" },
+      "geometry": { "type": "Point", "coordinates": [98.69702068187766, 3.5849250249913633, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Rumah Sakit Ibnu Saleh", "Photo": "RS_IbnuSaleh-min.png", "Time": "05-06-2021 07:58:33", "Alamat": "Jl. HM. Joni No.63A, RW.65, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20216" },
+      "geometry": { "type": "Point", "coordinates": [98.70107907113693, 3.5689239580915375, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSU Bahagia", "Photo": "RSU_Bahagia-min.png", "Time": "05-06-2021 70:55:55", "Alamat": "Jl. Bahagia No.85, Teladan Tim., Kec. Medan Kota, Kota Medan, Sumatera Utara 20217" },
+      "geometry": { "type": "Point", "coordinates": [98.70312408640886, 3.563140094092098, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Deli General Hospital", "Photo": "DeliGeneral_Hospital-min.png", "Time": "05-06-2021 14:30:52", "Alamat": "Jl. Merbabu No.18, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20212" },
+      "geometry": { "type": "Point", "coordinates": [98.68809727126771, 3.5875582429434436, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Martha Friska Medan ", "Photo": "RS_MarthaFriskaMedan-min.png", "Time": "05-06-2021 08:40:02", "Alamat": "Jl. Multatuli No.1, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212" },
+      "geometry": { "type": "Point", "coordinates": [98.68356238480365, 3.576471178652669, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Remarks": "Bunda Thamrin Hospital",
+        "Photo": "BundaThamrin_Hospital-min.png",
+        "Time": "05-06-2021 11:20:02",
+        "Alamat": "Jl. Sei Batang Hari No.28-30-42, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20112"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.65138030407871, 3.5862028368097896, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Hermina Medan Hospital", "Photo": "HerminaMedan_Hospital-min.png", "Time": "05-06-2021 09:25:22", "Alamat": "Jl. Asrama, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123" },
+      "geometry": { "type": "Point", "coordinates": [98.62812426629928, 3.5960862516724315, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Remarks": "Columbia Asia Hospital Medan",
+        "Photo": "ColumbiaAsia_HospitalMedan-min.png",
+        "Time": "05-06-2021 09:00:57",
+        "Alamat": "Jl. Asrama, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.67701123492814, 3.5862475584079503, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Royal Prima Hospital", "Photo": "RoyalPrima_Hospital-min.png", "Time": "05-06-2021 16:20:17", "Alamat": "Jl. Ayahanda No.68A, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118" },
+      "geometry": { "type": "Point", "coordinates": [98.65424810050165, 3.598590629437105, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "Murni Teguh Memorial Hospital", "Photo": "MurniTeguhMemorial_Hospital-min.png", "Time": "05-06-2021 14:01:47", "Alamat": "Jl. Jawa No.2, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231" },
+      "geometry": { "type": "Point", "coordinates": [98.68144735743837, 3.59130108232461, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Remarks": "General Hospital of North Sumatera University",
+        "Photo": "GeneralHospital_ofNorthSumateraUniversity-min.png",
+        "Time": "05-06-2021 10:20:38",
+        "Alamat": "Jl. Dr. Mansyur No.66, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.6581465108646, 3.568492921315764, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Remarks": "Rumah Sakit Islam Malahayati",
+        "Photo": "RS_IslamMalahayati-min.png",
+        "Time": "05-06-2021 09:10:21",
+        "Alamat": "Jl. Pangeran Diponegoro No.2 - 4, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.67240910922682, 3.586992838400812, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSU Muhammadiyah", "Photo": "RSU_Muhammadiyah-min.png", "Time": "30-05-2021 07:40:46", "Alamat": "Jl.Mandala By Pass No.27,Tegal Sari Mandala I,Kec.Medan Denai,Kota Medan,Sumatera Utara 20223" },
+      "geometry": { "type": "Point", "coordinates": [98.71065819057917, 3.583731773895772, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Bhayangkara", "Photo": "RS_Bhayangkara.png", "Time": "04-06-2021 10:57:12", "Alamat": "Jl. Jati No.1, Jati Baru, Kec. Padang Tim., Kota Padang, Sumatera Barat 25129" },
+      "geometry": { "type": "Point", "coordinates": [100.366143433, -0.932703261111, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Bunda BMC", "Photo": "RS_Bunda_BMC.png", "Time": "04-06-2021 14:16:04", "Alamat": "Jl. Proklamasi No.31 - 37, Ganting Parak Gadang, Kec. Padang Tim., Kota Padang, Sumatera Barat 25132" },
+      "geometry": { "type": "Point", "coordinates": [100.3675778, -0.9509078, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Hermina", "Photo": "RS_Hermina.png", "Time": "04-06-2021 15:30:24", "Alamat": "Jl. Khatib Sulaiman, Lolong Belanti, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173" },
+      "geometry": { "type": "Point", "coordinates": [100.360343456, -0.917705395434, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Ibnu Sina", "Photo": "RS_Ibnu_Sina.png", "Time": "04-06-2021 14:13:16", "Alamat": "Jl. Gajah Mada, Gn. Pangilun, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173" },
+      "geometry": { "type": "Point", "coordinates": [100.367774, -0.93031, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS M.Djamil", "Photo": "RS_M.Djamil.png", "Time": "04-06-2021 10:35:11", "Alamat": "Jl. Perintis Kemerdekaan, Sawahan Tim., Kec. Padang Tim., Kota Padang, Sumatera Barat 25171" },
+      "geometry": { "type": "Point", "coordinates": [100.368291557, -0.943427255798, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Semen Padang", "Photo": "RS_Semen_Padang.png", "Time": "04-06-2021 10:05:34", "Alamat": "Jl. By Pass No.KM. 7, Pisang, Kec. Pauh, Kota Padang, Sumatera Barat 25161" },
+      "geometry": { "type": "Point", "coordinates": [100.399546, -0.941611, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Remarks": "RS Tentara Reksodiwiryo",
+        "Photo": "RS_Tentara_Reksodiwiryo.png",
+        "Time": "04-06-2021 11:05:58",
+        "Alamat": "Jl. Dr. Wahidin No.1, Ganting Parak Gadang, Kec. Padang Tim., Kota Padang, Sumatera Barat 25132"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.372331128, -0.950819345304, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Unand", "Photo": "RS_Unand.png", "Time": "04-06-2021 15:40:05", "Alamat": "Komp Kampus Unand Jalan Universitas Andalas, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25176" },
+      "geometry": { "type": "Point", "coordinates": [100.456565, -0.91987, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Yos Sudarso", "Photo": "RS_Yos_Sudarso.png", "Time": "04-06-2021 10:45:43", "Alamat": "Jl. Situjuh I No.1, Jati Baru, Kec. Padang Tim., Kota Padang, Sumatera Barat 25129" },
+      "geometry": { "type": "Point", "coordinates": [100.3624892, -0.9363497, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSI Siti Rahmah", "Photo": "RSI_Siti_Rahmah.png", "Time": "04-06-2021 12:33:01", "Alamat": "Jl. By Pass No.KM.15, Aie Pacah, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586" },
+      "geometry": { "type": "Point", "coordinates": [100.39741, -0.91053, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD dr. Rasidin", "Photo": "RSUD_dr.Rasidin.png", "Time": "04-06-2021 12:20:41", "Alamat": "Gunung Sarik, Kuranji, Jl. Air Paku, Gn. Sarik, Kec. Kuranji, Kota Padang, Sumatera Barat 25586" },
+      "geometry": { "type": "Point", "coordinates": [100.39741, -0.91053, 50.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Muhammadiyah", "Photo": "RS_Muhammadiyah.jpg", "Time": "05-06-2021 09:00:52", "Alamat": "Jl. Jenderal Ahmad Yani, 14 Ulu, Kec. Seberang Ulu II, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.77673890197921, -2.9953675214979487, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS dr. AK Gani Palembang", "Photo": "RS_dr.AKGaniPalembang.jpg", "Time": "05-06-2021 09:20:02", "Alamat": "Jl. Dr. Ak. Gani No.1, 16 Ilir, Kec. Bukit Kecil, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.76014317798645, -2.9891745208515106, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Pelabuhan", "Photo": "RS_Pelabuhan.jpg", "Time": "05-06-2021 09:45:18", "Alamat": "Jl. Mayor Memet Sastra Wirya No.1, Lawang Kidul, Kec. Ilir Tim. II, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.77645100773165, -2.9770887936309522, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS RK.Charitas Palembang", "Photo": "RSRK_CharitasPalembang.jpg", "Time": "05-06-2021 10:05:22", "Alamat": "Jl. Jend. Sudirman No.1054, Sungai Pangeran, Kec. Ilir Tim. I, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.752568198545, -2.974951967186364, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUP Dr.Mohammad Hosein", "Photo": "RSUP_DrMohammadHosein.jpg", "Time": "05-06-2021 10:15:00", "Alamat": "3, Jl. Jend. Sudirman No.Km, RW.5, Sekip Jaya, Kec. Kemuning, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.74897051203882, -2.966365865276106, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Bhayangkara", "Photo": "RS_Bhayangkara.jpg", "Time": "05-06-2021 10:55:52", "Alamat": "Jl. Jend. Sudirman No.km 4, RW.5, Ario Kemuning, Kec. Kemuning, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.7377835702531, -2.956835100557675, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSUD Siti Fatimah ", "Photo": "RSUD_SitiFatimah.jpg", "Time": "05-06-2021 11:11:52", "Alamat": "Jl. Kol. H. Burlian, Suka Bangun, Kec. Sukarami, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.73442836152921, -2.9479918645859318, 50.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Hermina Palembang", "Photo": "RS_HerminaPalembang.jpg", "Time": "05-06-2021 11:35:20", "Alamat": "Jl. Jend. Basuki Rachmat No.897, Pahlawan, Kec. Kemuning, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.74875936259477, -2.9537985725128446, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RSI Siti Khodijah", "Photo": "RSI_Siti Khodijah.jpg", "Time": "05-06-2021 11:55:01", "Alamat": "Lorok Pakjo, Ilir Barat I, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.73068788774046, -2.971689067305097, 41.0] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "Remarks": "RS Siloam Sriwijaya", "Photo": "RS_SiloamSriwijaya.jpg", "Time": "05-06-2021 13:35:52", "Alamat": "Jl. POM IX, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang" },
+      "geometry": { "type": "Point", "coordinates": [104.74236525191388, -2.9776266565852945, 41.0] }
+    }
+  ]
+}
